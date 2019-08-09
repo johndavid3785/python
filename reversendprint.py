@@ -1,4 +1,4 @@
-o=int(input())
+po=int(input())
 n=list(map(int,input().split()))
 n.reverse()
 l=[]
